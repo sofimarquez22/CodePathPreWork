@@ -8,7 +8,7 @@ A prototype app that
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/f0731e1e-8e75-4841-9a31-be4b19d998de" width=200><br>
+<img src="blob:https://imgur.com/f0731e1e-8e75-4841-9a31-be4b19d998de.gif" width=200><br>
 
 
 ### Required User Stories
