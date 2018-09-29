@@ -2,8 +2,7 @@
 ## PreWorkApp
 
 ### App Description
-`TODO://` Add app description
-A prototype app that 
+A prototype app that allows the user to change the background color, text color, the text that is displayed, and reset the screen by clicking on the background. The display includes three buttons and a line for text input.
 
 ### App Walk-though
 
